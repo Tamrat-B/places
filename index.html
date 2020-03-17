@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Places I been to ...</title>
+    <link rel="stylesheet" href="https://js.arcgis.com/4.14/esri/css/main.css" />
+    <link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet" />
+    <link rel="stylesheet" href="style/main.css" />
+    <script>
+      var locationPath = location.origin + location.pathname.replace(/\/[^\/]+$/, "");
+      window.dojoConfig = {
+        packages: [
+          {
+            name: "app",
+            location: locationPath + "/app"
+          }
+        ]
+      };
+    </script>
+    <script src="https://js.arcgis.com/4.14"></script>
+  </head>
 
+  <body>
+    <div id="viewDiv"></div>
+    <header class="title">Been there, done that!</header>
+    <script>
+      require(["app/main"]);
+    </script>
+  </body>
+</html>

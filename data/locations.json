@@ -1,0 +1,461 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.9538336884421, 38.8909080742765
+				]
+			},
+			"properties": {
+				"location": "Washington D.C.",
+				"country": "United States"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.9052366295063, 40.7078640410704
+				]
+			},
+			"properties": {
+				"location": "New York",
+				"country": "United States"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-109.916740, 22.890533
+				]
+			},
+			"properties": {
+				"location": "Cabo San Lucas",
+				"country": "Mexico"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.225334, 20.653406
+				]
+			},
+			"properties": {
+				"location": "Puerto Vallarta",
+				"country": "Mexico"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.6535336673155, 45.5410170211942
+				]
+			},
+			"properties": {
+				"location": "Montreal",
+				"country": "Canada"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.178001676555766, 51.4879109366983
+				]
+			},
+			"properties": {
+				"location": "London",
+				"country": "United Kingdom"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.963066598079, 49.2742979204355
+				]
+			},
+			"properties": {
+				"location": "Vancouver",
+				"country": "Canada"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.316650688446, 47.5885529540027
+				]
+			},
+			"properties": {
+				"location": "Seattle",
+				"country": "United States"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.250000641271, 34.0000019590779
+				]
+			},
+			"properties": {
+				"location": "Los Angeles",
+				"country": "United States"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.078995698098, 39.5780040043964
+				]
+			},
+			"properties": {
+				"location": "Denver",
+				"country": "United States"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.69097169824497, 40.4422200735064
+				]
+			},
+			"properties": {
+				"location": "Madrid",
+				"country": "Spain"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4126335823369, 43.7207669366832
+				]
+			},
+			"properties": {
+				"location": "Toronto",
+				"country": "Canada"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.2702165699411, 25.8321240541694
+				]
+			},
+			"properties": {
+				"location": "Miami",
+				"country": "United States"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.4164555621591, 23.0489550066226
+				]
+			},
+			"properties": {
+				"location": "Havana",
+				"country": "Cuba"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.43800235305673, 43.5999959694044
+				]
+			},
+			"properties": {
+				"location": "Toulouse",
+				"country": "France"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.6412976068233, 41.8265459875428
+				]
+			},
+			"properties": {
+				"location": "Chicago",
+				"country": "United States"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.15900141685771, 41.3579970446532
+				]
+			},
+			"properties": {
+				"location": "Barcelona",
+				"country": "Spain"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.5199993381429, 41.8799970439333
+				]
+			},
+			"properties": {
+				"location": "Rome",
+				"country": "Italy"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					26.12296842783, 44.4304800149367
+				]
+			},
+			"properties": {
+				"location": "Bucharest",
+				"country": "Romania"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.0060014026546, 41.0660009627706
+				]
+			},
+			"properties": {
+				"location": "Istanbul",
+				"country": "Turkey"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.70000039131, 9.02999706641599
+				]
+			},
+			"properties": {
+				"location": "Addis Ababa",
+				"country": "Ethiopia"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.43299734469412, 48.8819970628075
+				]
+			},
+			"properties": {
+				"location": "Paris",
+				"country": "France"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.36799743903296, 50.8370039660421
+				]
+			},
+			"properties": {
+				"location": "Brussels",
+				"country": "Belgium"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.89483932469324, 52.3730429819271
+				]
+			},
+			"properties": {
+				"location": "Amsterdam",
+				"country": "Netherlands"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.3707163638276, 45.4247730248925
+				]
+			},
+			"properties": {
+				"location": "Venice",
+				"country": "Italy"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-70.69024757, 19.7902170338854
+				]
+			},
+			"properties": {
+				"location": "Puerto Plata",
+				"country": "Dominican Republic"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5339984141423, 47.4010020490151
+				]
+			},
+			"properties": {
+				"location": "Zurich",
+				"country": "Switzerland"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					115.853004413746, -31.9560030368318
+				]
+			},
+			"properties": {
+				"location": "Perth",
+				"country": "Australia"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.809006365241, 35.683002048058
+				]
+			},
+			"properties": {
+				"location": "Tokyo",
+				"country": "Japan"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.506723341781, 25.0350930267656
+				]
+			},
+			"properties": {
+				"location": "Taipei",
+				"country": "China"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.473000419804, 31.2479999383934
+				]
+			},
+			"properties": {
+				"location": "Shanghai",
+				"country": "China"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					114.279003280991, 30.5730000363321
+				]
+			},
+			"properties": {
+				"location": "Wuhan",
+				"country": "China"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					116.388036416661, 39.9061890457426
+				]
+			},
+			"properties": {
+				"location": "Beijing",
+				"country": "China"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.807216410839, -41.3348400516574
+				]
+			},
+			"properties": {
+				"location": "Wellington",
+				"country": "New Zealand"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.831794330751, 1.26885598613298
+				]
+			},
+			"properties": {
+				"location": "Singapore",
+				"country": "Singapore"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.028199398185, -33.8897699469434
+				]
+			},
+			"properties": {
+				"location": "Sydney",
+				"country": "Australia"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					145.075104313526, -37.8529559698377
+				]
+			},
+			"properties": {
+				"location": "Melbourne",
+				"country": "Australia"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.761001292925, -36.9039960498939
+				]
+			},
+			"properties": {
+				"location": "Auckland",
+				"country": "New Zealand"
+			}
+		}
+	]
+}
